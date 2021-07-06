@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `BitShift`,
-    subtitle: `Good software matters.`,
-    description: `BitShift is a software consulting agency`,
+    subtitle: `No bulls**t software consultancy.`,
+    description: `BitShift is the software consulting agency`,
     author: `@pyropy`,
   },
   plugins: [
